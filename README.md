@@ -1,3 +1,2 @@
-# nextjs-whatsapp-clone-starter
-"# Connect" 
+# Connect Chat Application 
 "# Connect" 
